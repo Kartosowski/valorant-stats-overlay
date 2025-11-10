@@ -1,0 +1,20 @@
+body {
+  background-color: transparent;
+}
+
+.bg-black-20 {
+    background-color: rgba(0,0,0,0.2);
+}
+
+.bg-black-40 {
+    background-color: rgba(0,0,0,0.4);
+}
+
+.bg-black-60 {
+    background-color: rgba(0,0,0,0.6);
+}
+
+.bg-black-80 {
+    background-color: rgba(0,0,0,0.8);
+}
+
