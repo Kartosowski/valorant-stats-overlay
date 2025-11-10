@@ -13,7 +13,7 @@
 
 ## Instalacja
 
-1. Pobierz [najnowszą wersję](https://github.com/Kartosowski/valorant-stats-overlay/releases/download/1.0.0/vs-overlay-1.0.exe) i rozpakuj do folderu.  
+1. Pobierz [najnowszą wersję](https://github.com/Kartosowski/valorant-stats-overlay/releases/download/1.0.0/vs-overlay-1.0.zip) i rozpakuj do folderu.  
 2. Otwórz plik `config.json` w edytorze tekstu i wpisz swój **username, tag oraz własny klucz**:
 
 ```json
